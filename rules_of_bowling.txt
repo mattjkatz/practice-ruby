@@ -1,0 +1,15 @@
+Create variable player_score that equals 0.
+
+Create an empty hash called pins_knocked_down
+
+Define method roll, end the method, and add p "roll!" inside
+
+In method roll, make the variable pins = 0
+
+In method roll, turn_1 = get.chomp, and pins = turn_1
+
+In method roll, turn_2 = get.chomp, and pins = turn_1
+
+Define method score, end the method, and add p "score!" inside
+
+In method score,
