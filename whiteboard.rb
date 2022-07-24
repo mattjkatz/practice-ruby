@@ -31,3 +31,13 @@
 
 # p shortest_string
 
+# Rotate 90 Degrees
+
+def rotate_90(ar)
+  if ar.length == 3 && ar[0].length == 0 && ar[1].length == 0 && ar[2].length == 0
+  else
+    return "Invalid Input"
+  end
+end
+
+pp [[1, 2, 3]]
